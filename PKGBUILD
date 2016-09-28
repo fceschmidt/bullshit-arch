@@ -6,7 +6,7 @@ pkgdesc="Assemble a stream of technology bullshit from words in a file"
 arch=('any')
 url="https://github.com/fceschmidt/bullshit"
 license=('GPL2')
-depends=('awk')
+depends=('gawk')
 
 package(){
  install -Dm755 $srcdir/bullshit "$pkgdir/usr/bin/bullshit"
