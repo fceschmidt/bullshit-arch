@@ -1,10 +1,12 @@
+# Maintainer: Fabian Schmidt <f.schmidt at posteo dot de>
 pkgname=bullshit
 pkgver=0.0
 pkgrel=1
-pkgdesc="A script to generate bullshit technology names"
-arch=('x86_64' 'i686')
+pkgdesc="Assemble a stream of technology bullshit from words in a file"
+arch=('any')
 url="https://github.com/fceschmidt/bullshit"
-license=('MIT')
+license=('GPL2')
+depends=('awk')
 
 package(){
  install -Dm755 $srcdir/bullshit "$pkgdir/usr/bin/bullshit"
