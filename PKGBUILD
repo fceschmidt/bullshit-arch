@@ -1,4 +1,4 @@
-# Maintainer: Fabian Schmidt <f.schmidt at posteo dot de>
+# Maintainer: Fabian Schmidt <fceschmidt at posteo dot de>
 pkgname=bullshit
 pkgver=0.0
 pkgrel=1
