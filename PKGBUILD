@@ -1,4 +1,3 @@
-# Maintainer: Youngbin Han <sukso96100@gmail.com>
 pkgname=bullshit
 pkgver=0.0
 pkgrel=1
