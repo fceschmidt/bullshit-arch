@@ -32,6 +32,10 @@ advanced ^
 leveraged ^
 extended ^
 basic ^
+gamified ^
+functional ^
+bug-free ^
+future ^
 core
 hardware
 software
@@ -40,6 +44,8 @@ rich-client
 DOM
 CSS
 CMS
+AMP
+docker
 map/reduce
 reduce/map
 descriptor
@@ -53,8 +59,13 @@ browser
 extension
 software ^
 open-source ^
+disruptive ^
+revolutionary ^
 module
 proxy
+task
+protoype
+test
 hosting
 wrapper
 storage
@@ -84,11 +95,14 @@ ISO-certified ^
 encrypted ^
 proven ^
 open ^
+rapid ^
 RESTful ^
+legacy ^
 content-addressed ^
 asynchronous ^
 object-oriented ^
 immutable ^
+containerized ^
 anonymous ^
 transactional ^
 distributed ^
@@ -96,12 +110,15 @@ structured ^
 managed ^
 webscale ^
 lossless ^
+decentralized ^
+scalable ^
 virtual ^
 shared ^
 stable ^
 SQL *
 JSON *
 XML *
+NodeJS *
 YAML *
 XMPP *
 SOAP *
@@ -110,8 +127,12 @@ AJAX *
 ORM *
 SVG *
 ACPI *
+PHP *
 WEB2.0 *
 SSL *
+TLS *
+FTP *
+SSH *
 HTTP *
 TOR *
 layer $
@@ -127,9 +148,10 @@ generator $
 optimizer $
 interface $
 solution $
-depenency $
+dependency $
 locator $
 -oriented %
 -based %
 -aware %
 -scale %
+-driven %
