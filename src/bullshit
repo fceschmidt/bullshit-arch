@@ -19,7 +19,7 @@ $2 == "^" { start[nstart++] = $1; next }
 $2 == "|" { noend[nword] = 1 }
 { word[nword++] = $1; next }
 END {
-	srand()
+	srand("'"`date +%Y%M%d%S%N`"'")
 	last = -1
 	out = 0
 	total = int(rand() * 7) + 3
