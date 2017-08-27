@@ -88,6 +88,7 @@ out-scaling |
 generic ^
 property |
 secure ^
+mobile-first ^
 overflow-preventing ^
 non-blocking ^
 self-healing ^
