@@ -1,12 +1,14 @@
 # Maintainer: Fabian Schmidt <fceschmidt at posteo dot de>
 pkgname=bullshit
 pkgver=0.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Assemble a stream of technology bullshit from words in a file"
 arch=('any')
-url="https://github.com/fceschmidt/bullshit"
+url="https://github.com/fceschmidt/bullshit-arch"
 license=('GPL2')
 depends=('gawk')
+source=('https://raw.githubusercontent.com/fceschmidt/bullshit-arch/master/src/bullshit.tar.gz')
+md5sums=('abf9795cb7713702f59d0bd8d7cc3342')
 
 package(){
  install -Dm755 $srcdir/bullshit "$pkgdir/usr/bin/bullshit"
