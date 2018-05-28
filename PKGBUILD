@@ -1,7 +1,7 @@
 # Maintainer: Fabian Schmidt <fceschmidt at posteo dot de>
 pkgname=bullshit
 pkgver=0.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Assemble a stream of technology bullshit from words in a file"
 arch=('any')
 url="https://github.com/fceschmidt/bullshit-arch"
