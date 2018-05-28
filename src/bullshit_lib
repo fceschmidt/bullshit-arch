@@ -14,6 +14,7 @@ cache
 persistence |
 self-signing |
 scripting |
+flat-hierarchy |
 template
 realtime
 realtime-java
@@ -25,6 +26,7 @@ injection
 pipelining
 firewall
 standard
+resource re/deallocation
 GPU
 shader
 agile ^
