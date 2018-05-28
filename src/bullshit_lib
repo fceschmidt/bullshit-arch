@@ -29,6 +29,16 @@ standard
 resource re/deallocation
 GPU
 shader
+hyper-converged ^
+kubernetes
+off-the-shelf |
+bare-metal |
+infrastructure
+planet-scale |
+hybrid ^
+best-of-breed |
+DevOps |
+data-science |
 agile ^
 advanced ^
 leveraged ^
